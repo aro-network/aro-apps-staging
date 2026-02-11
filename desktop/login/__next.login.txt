@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[28350,["https://0ee63895-262b.ipproxy.aro.network/desktop/_next/static/chunks/ed5da074a37a4c2e.js","https://0ee63895-262b.ipproxy.aro.network/desktop/_next/static/chunks/7eff4453ecacd35e.js"],"default"]
 3:I[54814,["https://0ee63895-262b.ipproxy.aro.network/desktop/_next/static/chunks/ed5da074a37a4c2e.js","https://0ee63895-262b.ipproxy.aro.network/desktop/_next/static/chunks/7eff4453ecacd35e.js"],"default"]
-0:{"buildId":"9PMQnuggmmSEkMhRj4TNR","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"Nru5bCdujFVc7v58JOW5w","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
