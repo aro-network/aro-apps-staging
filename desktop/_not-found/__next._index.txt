@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[6529,["529","static/chunks/529-fa98b993bde1da11.js","177","static/chunks/app/layout-d1c11e9f0b399530.js"],"Toaster"]
-3:I[5391,["529","static/chunks/529-fa98b993bde1da11.js","177","static/chunks/app/layout-d1c11e9f0b399530.js"],"default"]
-4:I[4432,["529","static/chunks/529-fa98b993bde1da11.js","177","static/chunks/app/layout-d1c11e9f0b399530.js"],"UserProvider"]
+2:I[6529,["529","static/chunks/529-fa98b993bde1da11.js","177","static/chunks/app/layout-dcd91bc4dad3f4f2.js"],"Toaster"]
+3:I[5391,["529","static/chunks/529-fa98b993bde1da11.js","177","static/chunks/app/layout-dcd91bc4dad3f4f2.js"],"default"]
+4:I[4432,["529","static/chunks/529-fa98b993bde1da11.js","177","static/chunks/app/layout-dcd91bc4dad3f4f2.js"],"UserProvider"]
 5:I[6544,[],""]
 6:I[4582,[],""]
 :HL["/desktop/_next/static/css/b1a53bfded94a1ff.css","style"]
-0:{"buildId":"H-rMq-CqEVJ9qYjSJf_I2","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/desktop/_next/static/css/b1a53bfded94a1ff.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_59304f __variable_ce7268 __variable_339375 font-Poppins","children":[["$","$L2",null,{"position":"top-center","offset":60,"theme":"light","style":{"--width":"180px","--mobile-offset":"50px"},"toastOptions":{"classNames":{"toast":"rounded-xl bg-[#585858] border border-solid border-white/10 text-white/60 text-xs px-4 py-2"}}}],["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}]]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"cqzY3w-DuoPrqOHJbgwrJ","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/desktop/_next/static/css/b1a53bfded94a1ff.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_59304f __variable_ce7268 __variable_339375 font-Poppins","children":[["$","$L2",null,{"position":"top-center","offset":60,"theme":"light","style":{"--width":"180px","--mobile-offset":"50px"},"toastOptions":{"classNames":{"toast":"rounded-xl bg-[#585858] border border-solid border-white/10 text-white/60 text-xs px-4 py-2"}}}],["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}]]}]}]]}],"loading":null,"isPartial":false}
